@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ My favorite food: <sup>sushi</sup> 🍱
 - 🌆 I like sunsets and going out with friends 👥 .
 - ✈️ **Traveling** is something that fascinates me, especially learning about new _cultures_ 🏯.
-- Here I leave you a series of bad jokes:
-1. Soy un tipo saludable. +¿Te gusta comer bien? -No, pero siempre me saludan.
+- Here I leave you some jokes
+1. ¿Que le habla un bit al otro? Nos vemos en el bus.
+2. ¿Qué le dice un .GIF a un .JPEG? -Anímate viejo.
+3. Error 0094782: No se detecta ningún teclado pulse una tecla para continuar.
 
