@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with _website programming_
 - 💬 Ask me about today's classes
 - 📫 How to reach me: ~~sokbenmas@aul.edu.gva.es~~
-- ⚡ My favorite food: <sub>sushi</sub>
+- ⚡ My favorite food: <sup>sushi</sup>
 
