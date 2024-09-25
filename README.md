@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 🌆 I like sunsets and going out with friends 👥 .
 - ✈️ **Traveling** is something that fascinates me, especially learning about new _cultures_ 🏯.
 - Here I leave you a series of bad jokes:
-  -
+1. Soy un tipo saludable. +¿Te gusta comer bien? -No, pero siempre me saludan.
+
