@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with _website programming_
 - 💬 Ask me about today's classes
 - 📫 How to reach me: ~~sokbenmas@aul.edu.gva.es~~
-- ⚡ My favorite food: <sup>sushi</sup>
-- 🌆 I like sunsets and going out with friends.
-- ✈️ **Traveling** is something that fascinates me, especially learning about new _cultures_.
+- ⚡ My favorite food: <sup>sushi</sup> 🍱
+- 🌆 I like sunsets and going out with friends 👥 .
+- ✈️ **Traveling** is something that fascinates me, especially learning about new _cultures_ 🏯.
 - 
